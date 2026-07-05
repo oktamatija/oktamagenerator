@@ -38,6 +38,7 @@ allupdatenow.com
 altruetech.com
 altwi-zgs.com
 amorpulse.com
+animeshoppers.com
 anydebrid.com
 aoptee.com
 appdrive.info
@@ -188,11 +189,11 @@ displaymovies.pl
 distrochooser.snehit.dev
 dkfodboldstore.com
 dleggere.com
-dogparadiseshop.com
 dogparadisestore.com
 doh-gov.ph
 dohealths.com
 dolystore.com
+dopestore.pl
 drama-queen.cc
 draxu.com
 dreamgreenshoe.com
@@ -455,6 +456,7 @@ lp.voucheras.com
 lucatee.com
 lucidtiger.com
 luckyhomie.com
+lucysstyle.com
 luxsgear.com
 maebl.com
 magnite.shop
@@ -477,6 +479,7 @@ moddetail.com
 modmobile24.com
 monkstars.com
 ms-analytics.mywire.org
+msgclick.top
 mslfgl434.pages.dev
 mujib-store28.blogspot.com
 multifilmy.pl
@@ -496,7 +499,6 @@ navi10.com
 navi100.com
 navi11.com
 navi12.com
-navi18.com
 navi2.com
 navi20.com
 navi20.ru
@@ -590,6 +592,7 @@ olymptrade-qid.com
 online-binomo.com
 online-eta.com
 onlinecda.pl
+onlinekino.pl
 onlinevisa.com
 onlinewideo.pl
 onlyfanstake.pro
@@ -690,7 +693,6 @@ singingfiles.com
 singleflirt.com
 skincheap.com
 skinszone.net
-skipped.vip
 skyfollowerbridge.com
 sligen.com
 slimsyrups.ca
@@ -743,6 +745,7 @@ store.aliyaoberbrunnergreg21.myshopify.com
 store.allnewsready.com
 store.allupdatenow.com
 store.altwi-zgs.com
+store.animeshoppers.com
 store.appdrive.info
 store.army-shop.onshopbase.com
 store.arnoldgloverruss58.myshopify.com
@@ -809,6 +812,7 @@ store.dischargebackhanded.com
 store.doh-gov.ph
 store.dohealths.com
 store.dolystore.com
+store.dopestore.pl
 store.draxu.com
 store.e-touristvisaindia.com
 store.e-visa.ie
@@ -897,8 +901,8 @@ store.look-like-star.myshopify.com
 store.lp.voucheras.com
 store.lucidtiger.com
 store.luckyhomie.com
+store.lucysstyle.com
 store.luxsgear.com
-store.m.coinexeu.vip
 store.maebl.com
 store.mail-cytanet.pages.dev
 store.mango-desert-09ebb4010.4.azurestaticapps.net
@@ -954,16 +958,15 @@ store.notify-user-adjustments.vercel.app
 store.obejrzyj-to.pl
 store.official.olymptrade-my.com
 store.oflike.com
-store.ojlkimed.vip
 store.oldcube.com
 store.olive121407.studio.site
 store.olymptrade-qid.com
+store.onlinekino.pl
 store.onlinewideo.pl
 store.onlyfanstake.pro
 store.onrunningshop.com
 store.padsims.com
 store.pages.tempisite.com
-store.pekanbaru.one
 store.penguinnow.com
 store.phirussacmush.net
 store.pinjamanrupiah.xyz
@@ -1000,6 +1003,7 @@ store.smartproduct.site
 store.smartuniswap.xyz
 store.softgetpc.com
 store.software19797.blogspot.com
+store.softzspot.com
 store.souhoney.com
 store.southernlife.net
 store.stableuniswap.xyz
@@ -1042,7 +1046,6 @@ store.twinsbio.com
 store.twitchlogger.robalmeister.workers.dev
 store.twitterr.com
 store.ucureo.com
-store.udemy-creators.com
 store.uk-tweed-jackets.com
 store.ultimate-tech-products.myshopify.com
 store.ultra-cda.pl
@@ -1068,6 +1071,7 @@ store.uniswaptoken.xyz
 store.uniswaptrading.xyz
 store.universityofqatarrectorate.godaddysites.com
 store.us99.pro
+store.uschse04.my03.com
 store.vanced-official.com
 store.vessisdeutschland.com
 store.vider-cda.online
@@ -1305,6 +1309,7 @@ www.allupdatenow.com
 www.altruetech.com
 www.altwi-zgs.com
 www.amorpulse.com
+www.animeshoppers.com
 www.anydebrid.com
 www.aoptee.com
 www.appdrive.info
@@ -1447,11 +1452,11 @@ www.displaymovies.pl
 www.distrochooser.snehit.dev
 www.dkfodboldstore.com
 www.dleggere.com
-www.dogparadiseshop.com
 www.dogparadisestore.com
 www.doh-gov.ph
 www.dohealths.com
 www.dolystore.com
+www.dopestore.pl
 www.drama-queen.cc
 www.draxu.com
 www.dreamgreenshoe.com
@@ -1699,7 +1704,9 @@ www.lp.voucheras.com
 www.lucatee.com
 www.lucidtiger.com
 www.luckyhomie.com
+www.lucysstyle.com
 www.luxsgear.com
+www.m.coinexeu.vip
 www.maebl.com
 www.magnite.shop
 www.mail-cytanet.pages.dev
@@ -1737,7 +1744,6 @@ www.navi10.com
 www.navi100.com
 www.navi11.com
 www.navi12.com
-www.navi18.com
 www.navi2.com
 www.navi20.com
 www.navi20.ru
@@ -2049,6 +2055,7 @@ www.universityofqatarrectorate.godaddysites.com
 www.uplevelreward.com
 www.ureashi.com
 www.us99.pro
+www.uschse04.my03.com
 www.uusilemmikki.com
 www.valeofoodsgroup.com
 www.validsteamkeys.com
