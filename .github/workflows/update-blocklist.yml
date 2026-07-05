@@ -2,11 +2,9 @@ name: Auto Update Aggregator Lists
 
 on:
   schedule:
-    # Menjalankan script setiap hari pada jam 02:00 UTC (09:00 WIB)
     - cron: '0 2 * * *'
-  workflow_dispatch: # Mengizinkan eksekusi manual via tombol di GitHub
+  workflow_dispatch:
 
-# Memberikan izin penuh kepada bot untuk menyimpan (Push) kode
 permissions:
   contents: write
 
@@ -17,32 +15,61 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          # 🌟 KUNCI PENTING: Ambil seluruh riwayat agar tidak terjadi "Tabrakan" (Merge Conflict)
           fetch-depth: 0 
 
-      - name: Scrape & Parse All Blocklists
+      - name: Scrape & Parse All Blocklists (Super Aggregator)
         run: |
-          echo "🔄 Memulai penarikan SEMUA data blocklist..."
+          echo "🔄 Memulai penarikan SEMUA data blocklist level Enterprise..."
 
-          # 1. ADS (Iklan & Telemetri Utama)
-          curl -s "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts" | grep "^0.0.0.0" | awk '{print $2}' | grep -v "^0\.0\.0\.0$" > ads.txt
+          # --- 1. ADS (IKLAN & TELEMETRI) - GABUNGAN FIREBOG, HAGEZI, STEVENBLACK ---
+          > ads_raw.txt
+          echo "Mengunduh dari StevenBlack..."
+          curl -s "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts" >> ads_raw.txt
+          echo "Mengunduh dari Firebog (Easylist)..."
+          curl -s "https://v.firebog.net/hosts/Easylist.txt" >> ads_raw.txt
+          echo "Mengunduh dari Firebog (AdguardDNS)..."
+          curl -s "https://v.firebog.net/hosts/AdguardDNS.txt" >> ads_raw.txt
+          echo "Mengunduh dari Firebog (Admiral)..."
+          curl -s "https://v.firebog.net/hosts/Admiral.txt" >> ads_raw.txt
+          echo "Mengunduh dari Peter Lowe..."
+          curl -s "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext" >> ads_raw.txt
+          echo "Mengunduh dari Hagezi (Pro Edition)..."
+          curl -s "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt" >> ads_raw.txt
 
-          # 2. ADULT (Konten Dewasa)
-          curl -s "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts" | grep "^0.0.0.0" | awk '{print $2}' | grep -v "^0\.0\.0\.0$" > adult.txt
+          # Ekstrak domain murni, bersihkan dari komentar/IP, hapus duplikat (sort -u)
+          echo "Membersihkan dan menyatukan daftar iklan..."
+          cat ads_raw.txt | grep -v '^#' | grep -v '^!' | awk '{print $NF}' | sed 's/\r//' | grep -v 'localhost' | grep -v '^0\.0\.0\.0$' | grep -v '^127\.0\.0\.1$' | sort -u > ads.txt
+          rm ads_raw.txt
 
-          # 3. GAMBLING (Perjudian)
-          curl -s "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts" | grep "^0.0.0.0" | awk '{print $2}' | grep -v "^0\.0\.0\.0$" > gambling.txt
 
-          # 4. MALWARE
-          curl -s "https://urlhaus.abuse.ch/downloads/hostfile/" | grep "^127.0.0.1" | awk '{print $2}' | grep -v "localhost" > malware.txt
+          # --- 2. ADULT (KONTEN DEWASA) ---
+          > adult_raw.txt
+          curl -s "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts" >> adult_raw.txt
+          cat adult_raw.txt | grep -v '^#' | awk '{print $NF}' | sed 's/\r//' | grep -v '^0\.0\.0\.0$' | sort -u > adult.txt
+          rm adult_raw.txt
 
-          # 5. PHISHING
-          curl -s "https://phishing.army/download/phishing_army_blocklist.txt" | grep -v "^#" > phishing.txt
 
-          # 6. SCAM (Penipuan)
-          curl -s "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt" | grep "^0.0.0.0" | awk '{print $2}' | grep -v "^0\.0\.0\.0$" > scam.txt
+          # --- 3. GAMBLING (PERJUDIAN) ---
+          curl -s "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts" | grep -v '^#' | awk '{print $NF}' | sed 's/\r//' | grep -v '^0\.0\.0\.0$' | sort -u > gambling.txt
 
-          # 7. DRUGS & 8. VIOLENCE (Placeholder)
+
+          # --- 4. MALWARE (GABUNGAN URLHAUS & HAGEZI THREAT) ---
+          > malware_raw.txt
+          curl -s "https://urlhaus.abuse.ch/downloads/hostfile/" >> malware_raw.txt
+          curl -s "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/threat.txt" >> malware_raw.txt
+          cat malware_raw.txt | grep -v '^#' | awk '{print $NF}' | sed 's/\r//' | grep -v '^127\.0\.0\.1$' | grep -v 'localhost' | sort -u > malware.txt
+          rm malware_raw.txt
+
+
+          # --- 5. PHISHING ---
+          curl -s "https://phishing.army/download/phishing_army_blocklist.txt" | grep -v '^#' | sed 's/\r//' | sort -u > phishing.txt
+
+
+          # --- 6. SCAM (PENIPUAN) ---
+          curl -s "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt" | grep -v '^#' | awk '{print $NF}' | sed 's/\r//' | grep -v '^0\.0\.0\.0$' | sort -u > scam.txt
+
+
+          # --- 7. DRUGS & 8. VIOLENCE ---
           touch drugs.txt
           touch violence.txt
 
@@ -53,18 +80,12 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Tambahkan semua file TXT
           git add *.txt
           
-          # Logika IF untuk mencegah eror jika data tidak ada yang berubah
           if ! git diff --staged --quiet; then
             echo "Memproses commit dan push..."
             git commit -m "🤖 Auto-update blocklists: $(date +'%Y-%m-%d')"
-            
-            # Tarik data terbaru dari server dan satukan
             git pull --rebase origin main
-            
-            # Dorong ke server
             git push origin main
             echo "✅ Perubahan berhasil disimpan ke GitHub!"
           else
