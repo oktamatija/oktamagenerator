@@ -184,7 +184,6 @@ desiupload.in
 devifoodgrains.com
 dezpez.com
 dieserbenni.ru
-dischargebackhanded.com
 displaymovies.pl
 distrochooser.snehit.dev
 dkfodboldstore.com
@@ -273,6 +272,7 @@ findglocal.com
 finnews7.wordpress.com
 fishingdaily.shop
 fitgirl-repacks-site.org
+fitgirl-repacks.vip
 fiusps.com
 fixpub.com
 flattee.com
@@ -435,6 +435,7 @@ kra18.com
 kuyhaa.cc
 lasercutjewelry.net
 lds.xyz
+ledgers.network
 lemstore.com
 leonoremanry.sa.com
 lericettedifrancy74.com
@@ -456,7 +457,6 @@ lp.voucheras.com
 lucatee.com
 lucidtiger.com
 luckyhomie.com
-lucysstyle.com
 luxsgear.com
 maebl.com
 magnite.shop
@@ -585,6 +585,7 @@ official.olymptrade-id-dk.com
 official.olymptrade-my.com
 officialkmspico.com
 oflike.com
+ojlkimed.vip
 okdebrid.com
 oldcube.com
 olive121407.studio.site
@@ -745,7 +746,6 @@ store.aliyaoberbrunnergreg21.myshopify.com
 store.allnewsready.com
 store.allupdatenow.com
 store.altwi-zgs.com
-store.animeshoppers.com
 store.appdrive.info
 store.army-shop.onshopbase.com
 store.arnoldgloverruss58.myshopify.com
@@ -758,7 +758,6 @@ store.baltic-pipe-finansowy.blogspot.com
 store.baltic79.wordpress.com
 store.balticpipe.wordpress.com
 store.benecharm.com
-store.benxi.info
 store.best-torrents.com
 store.bestvod.pl
 store.billboardwring.com
@@ -808,7 +807,6 @@ store.debridlink.com
 store.deergift.com
 store.deluxdoll.com
 store.desiupload.in
-store.dischargebackhanded.com
 store.doh-gov.ph
 store.dohealths.com
 store.dolystore.com
@@ -895,13 +893,13 @@ store.kinomaniak.cc
 store.klasykavod.pl
 store.kmspico-official.org
 store.koinprime.com
+store.kreditmudah.shop
 store.ligerking.com
 store.load.365analytics.xyz
 store.look-like-star.myshopify.com
 store.lp.voucheras.com
 store.lucidtiger.com
 store.luckyhomie.com
-store.lucysstyle.com
 store.luxsgear.com
 store.maebl.com
 store.mail-cytanet.pages.dev
@@ -1222,6 +1220,7 @@ uplevelreward.com
 uprising.kip.pro
 ureashi.com
 us99.pro
+uschse04.my03.com
 uusilemmikki.com
 valeofoodsgroup.com
 validsteamkeys.com
@@ -1309,7 +1308,6 @@ www.allupdatenow.com
 www.altruetech.com
 www.altwi-zgs.com
 www.amorpulse.com
-www.animeshoppers.com
 www.anydebrid.com
 www.aoptee.com
 www.appdrive.info
@@ -1447,7 +1445,6 @@ www.deluxdoll.com
 www.desiupload.in
 www.devifoodgrains.com
 www.dezpez.com
-www.dischargebackhanded.com
 www.displaymovies.pl
 www.distrochooser.snehit.dev
 www.dkfodboldstore.com
@@ -1683,6 +1680,7 @@ www.kopisusu.co.id
 www.kra18.com
 www.kuyhaa.cc
 www.lasercutjewelry.net
+www.ledgers.network
 www.lemstore.com
 www.leonoremanry.sa.com
 www.lericettedifrancy74.com
@@ -1704,9 +1702,7 @@ www.lp.voucheras.com
 www.lucatee.com
 www.lucidtiger.com
 www.luckyhomie.com
-www.lucysstyle.com
 www.luxsgear.com
-www.m.coinexeu.vip
 www.maebl.com
 www.magnite.shop
 www.mail-cytanet.pages.dev
@@ -2055,7 +2051,6 @@ www.universityofqatarrectorate.godaddysites.com
 www.uplevelreward.com
 www.ureashi.com
 www.us99.pro
-www.uschse04.my03.com
 www.uusilemmikki.com
 www.valeofoodsgroup.com
 www.validsteamkeys.com
@@ -2098,6 +2093,7 @@ www.webvod.pl
 www.whbinder.com
 www.wikeb.com
 www.wintexfashions.com
+www.wisdomganga.com
 www.withyotta.com
 www.woadoodles.com
 www.wp3.xyz
