@@ -118,6 +118,7 @@ bsntowoff.com
 buddhakind.com
 burgershirt.com
 buydubuy.com
+buzzazone.com
 bwpkizpfms.funnelish.com
 by-emmamuller.de
 c0nt4ct-me.pages.dev
@@ -247,7 +248,6 @@ faunugraipt.com
 faze1.com
 faze10.com
 faze2.com
-faze3.com
 faze4.com
 faze47.com
 faze5.com
@@ -574,6 +574,7 @@ nip8.com
 nip9.com
 nip98.com
 nirvezal.com
+nobrerefino.com
 nofotballshop.com
 nonofy.com
 norfotball.com
@@ -767,7 +768,6 @@ store.baltic-pipe-finansowy.blogspot.com
 store.baltic79.wordpress.com
 store.balticpipe.wordpress.com
 store.benecharm.com
-store.benxi.info
 store.bertasxt.com
 store.best-torrents.com
 store.bestvod.pl
@@ -788,6 +788,7 @@ store.bradcroninnapo82.myshopify.com
 store.breakshirts.com
 store.bsnltowerinstallations.com
 store.buddhakind.com
+store.buzzazone.com
 store.bwpkizpfms.funnelish.com
 store.by-emmamuller.de
 store.c0nt4ct-me.pages.dev
@@ -802,7 +803,6 @@ store.cmoboy.com
 store.cognatesyringe.com
 store.coinaps.com
 store.coinreq.com
-store.coolest3d.com
 store.couponxoo.com
 store.crackedpc.org
 store.crypto030.online
@@ -911,7 +911,6 @@ store.lp.voucheras.com
 store.lucidtiger.com
 store.luckyhomie.com
 store.luxsgear.com
-store.m.coinexeu.vip
 store.maebl.com
 store.magnite.shop
 store.mail-cytanet.pages.dev
@@ -1062,6 +1061,7 @@ store.twinsbio.com
 store.twitchlogger.robalmeister.workers.dev
 store.twitterr.com
 store.ucureo.com
+store.udemy-creators.com
 store.uk-tweed-jackets.com
 store.ultimate-tech-products.myshopify.com
 store.ultra-cda.pl
@@ -1203,7 +1203,6 @@ trivo.uk
 trkucibqy.com
 tromselementbygg.no
 turtleclient.xyz
-twiiiter.com
 twinsbio.com
 twitchlogger.robalmeister.workers.dev
 twitterr.com
@@ -1241,6 +1240,7 @@ uplevelreward.com
 uprising.kip.pro
 ureashi.com
 us99.pro
+uschse04.my03.com
 uusilemmikki.com
 valeofoodsgroup.com
 validsteamkeys.com
@@ -1321,7 +1321,6 @@ www.airup-romania.com
 www.airupgreece.net
 www.airupsrbija.com
 www.aizipai.cn
-www.aldi-life.vip
 www.alindflepkaty14.pages.dev
 www.aliyaoberbrunnergreg21.myshopify.com
 www.all-tube.pl
@@ -1409,6 +1408,7 @@ www.bsntowoff.com
 www.buddhakind.com
 www.burgershirt.com
 www.buydubuy.com
+www.buzzazone.com
 www.bwpkizpfms.funnelish.com
 www.by-emmamuller.de
 www.c0nt4ct-me.pages.dev
@@ -1531,7 +1531,6 @@ www.faunugraipt.com
 www.faze1.com
 www.faze10.com
 www.faze2.com
-www.faze3.com
 www.faze4.com
 www.faze47.com
 www.faze5.com
@@ -1790,7 +1789,6 @@ www.navi35.com
 www.navi36.ru
 www.navi38.ru
 www.navi39.ru
-www.navi42.ru
 www.navi5.com
 www.navi53.com
 www.navi56.com
@@ -1959,6 +1957,7 @@ www.singingfiles.com
 www.singleflirt.com
 www.skincheap.com
 www.skinszone.net
+www.skipped.vip
 www.skyfollowerbridge.com
 www.sligen.com
 www.slimsyrups.ca
@@ -2050,7 +2049,6 @@ www.treverschmelerkris18.myshopify.com
 www.tripinpremiumsnacks.com
 www.tromselementbygg.no
 www.turtleclient.xyz
-www.twiiiter.com
 www.twinsbio.com
 www.twitchlogger.robalmeister.workers.dev
 www.twitterr.com
