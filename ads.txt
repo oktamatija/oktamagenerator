@@ -18289,6 +18289,7 @@ ampmetrics.techcrunch.com
 ampmhcbehnapwt.com
 ampower.me
 amprtc.media.net
+ampscamp.net
 amptrack-dailymail-co-uk.cdn.ampproject.org
 ampxchange.com
 amqa11.com
@@ -141144,6 +141145,7 @@ pulse.fluparks.at
 pulse.fluparks.ch
 pulse.flyparks.com.au
 pulse.ftools.fluege.de
+pulse.genki.world
 pulse.hetadreswebshop.nl
 pulse.impartner.com
 pulse.inmobi.com
