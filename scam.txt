@@ -1,4 +1,5 @@
 
+1.password-internal.com
 1stfinancefirm.wixsite.com
 1stireland.com
 1sttheworld.com
@@ -55,7 +56,6 @@ audiosg.com.sg
 augusthenri.be
 aussiesportfashion.com
 avarik.web.app
-avito.pay.www.booking.com-id9576916.com
 azfancy.com
 azsolver.com
 babybeddingdesign.com
@@ -183,9 +183,11 @@ decoryourhome.store
 deergift.com
 dein-rundfunkbeitrag.de
 deluxdoll.com
+denatranotificacao.co
 desiupload.in
 devifoodgrains.com
 dezpez.com
+discounthoneywell.com
 displaymovies.pl
 distrochooser.snehit.dev
 dkfodboldstore.com
@@ -287,6 +289,7 @@ friday89.com
 friday99.com
 frostgoddess.com
 fuehrungszeugnis-service.de
+fulfillgift.com
 fullview.pl
 fumekart.com
 fundanemt.org
@@ -314,6 +317,7 @@ giftyweb.com
 gig-os.com
 gimboy.com
 gimp.zendesk.com
+gitlab.admin.id601294105.date
 gjseep.com
 gladiadormalas.com.br
 glitchy.go2cloud.org
@@ -419,7 +423,6 @@ kingcampoutdoors.co.jp
 kino-cda.pl
 kinomaniak.cc
 kinonline.pl
-kiophsx9.sa.com
 kisserine.com
 kitchendecor.shop
 klasykavod.pl
@@ -460,6 +463,7 @@ lp.voucheras.com
 lucatee.com
 lucidtiger.com
 luckyhomie.com
+lucysstyle.com
 luxsgear.com
 maebl.com
 magnite.shop
@@ -524,7 +528,6 @@ navi35.com
 navi36.ru
 navi38.ru
 navi39.ru
-navi42.ru
 navi5.com
 navi52.com
 navi53.com
@@ -571,6 +574,7 @@ nip46.com
 nip5.com
 nip57.com
 nip8.com
+nip89.com
 nip9.com
 nip98.com
 nirvezal.com
@@ -615,8 +619,6 @@ pages.tempisite.com
 pambi.tech
 paradisevs.com
 path2zillion.com
-pay.avito.avito.avito.avito.www.booking.com-id90123.info
-pay.pay.booking.com-id322712.com
 peekpok.com
 penguinnow.com
 peppatees.com
@@ -675,8 +677,6 @@ ruthiekresal.za.com
 sakuradate.com
 salimusic.com
 saveeeee.myshopify.com
-sber.avito.pay.avito.avito.avito.booking.com-id809702.com
-sberbank.avito.com-id23901.info
 seagulltee.com
 seasonsofficial.com
 secrity2redline.com
@@ -761,7 +761,7 @@ store.arnoldgloverruss58.myshopify.com
 store.atoins.com
 store.atrendsz.com
 store.avarik.web.app
-store.avito.pay.sber.booking.com-id20341.info
+store.avito.avito.www.booking.com-id1800853.com
 store.backend.store.eset.co.il
 store.bajeczki.org.pl
 store.baltic-pipe-finansowy.blogspot.com
@@ -783,7 +783,6 @@ store.blackoutarchertender.com
 store.blsindiavisa.kr
 store.bmpro.tech
 store.bnidigital.com
-store.booking.com-id15421.info
 store.booking.security16.com
 store.bookling.security16.com
 store.bookllng.security16.com
@@ -895,7 +894,6 @@ store.jagkart.com
 store.jasper-lilac-van.glitch.me
 store.jellystores.com
 store.jsdimmigration.com
-store.kakaopv.co.kr
 store.karanpcofficial.blogspot.com
 store.keltysale.com
 store.kesug.com
@@ -941,9 +939,11 @@ store.navi21.com
 store.navi23.com
 store.navi24.com
 store.navi3.com
+store.navi42.ru
 store.navi5.com
 store.navi6.com
 store.navi65.com
+store.navi7.ru
 store.navi72.ru
 store.navi77.com
 store.navi78.ru
@@ -964,7 +964,6 @@ store.nip9.com
 store.nonofy.com
 store.norgeshoes.com
 store.notify-user-adjustments.vercel.app
-store.nowefilmyonline.pl
 store.obejrzyj-to.pl
 store.official.olymptrade-my.com
 store.oflike.com
@@ -979,6 +978,8 @@ store.outel.abmarketworks.com
 store.padsims.com
 store.pages.tempisite.com
 store.pambi.tech
+store.pay.avito.avito.avito.www.booking.com-id20341.info
+store.pay.sberbank.www.www.com-id802914.com
 store.penguinnow.com
 store.phirussacmush.net
 store.pinjamanelit.top
@@ -1005,14 +1006,17 @@ store.rozomii.info
 store.rsaonlinenow.com.au
 store.rustdesk.secure-box.de
 store.saveeeee.myshopify.com
-store.sber.pay.avito.pay.com-id20341.info
+store.sberbank.avito.sber.sberbank.booking.com-id90123.info
+store.sberbank.booking.com-id3212341.info
 store.seasonsofficial.com
 store.securevault.top
 store.security-meta.pages.app.br
 store.serialefilmy.pl
+store.shopraidlight.com
 store.shy-boat-90ce.jiko728928922.workers.dev
 store.signpify.com
 store.skincheap.com
+store.skipped.vip
 store.smartproduct.site
 store.smartuniswap.xyz
 store.softgetpc.com
@@ -1084,6 +1088,7 @@ store.uniswaptoken.xyz
 store.uniswaptrading.xyz
 store.universityofqatarrectorate.godaddysites.com
 store.us99.pro
+store.uschse04.my03.com
 store.vanced-official.com
 store.vessisdeutschland.com
 store.vider-cda.online
@@ -1109,17 +1114,14 @@ store.wp3.xyz
 store.wpad.ru
 store.ww25.utilify.me
 store.www.base-vod.pl
-store.wyzia-orderdeposits.com
 store.xcartpro.com
 store.xvid.social-previews.top
 store.yahhhoo.com
-store.yandex.avito.avito.avito.www.booking.com-id23901.info
-store.yandex.avito.sber.booking.com-id20341.info
-store.yandex.pay.avito.avito.avito.com-id809702.com
-store.yandex.pay.sberbank.avito.avito.avito.avito.com-id1800853.com
+store.yandex.pay.avito.avito.avito.pay.com-id809702.com
 store.ygtube.xyz
 store.youtubee.com
 store.youtunbe.com
+store.yyderfreap.shop
 store.z-lib.is
 store.zalukaj-film.pl
 store.zalukaj-vip.pl
@@ -1164,11 +1166,10 @@ telegramweb.vercel.app
 telemarktalk.com
 tencheckit.org
 terverystaio.info
+tesla-lnc.net
 teslatime.net
 the-north-face.gr
-thechildhooddream.com
 theeaglebrand.company.site
-thehardcorehabits.com
 themountainwarehouse.com
 theneurobalancetherapy.org
 theonepercentcommunity.com
@@ -1218,7 +1219,6 @@ uniswapapp.xyz
 uniswapbot.xyz
 uniswapcapital.xyz
 uniswapdao.xyz
-uniswapdappweb3.com
 uniswapdefi.xyz
 uniswapetf.xyz
 uniswapfund.xyz
@@ -1232,10 +1232,12 @@ uniswapstaking.xyz
 uniswaptoken.xyz
 uniswaptrading.xyz
 universityofqatarrectorate.godaddysites.com
+upfilm.pl
 uplevelreward.com
 uprising.kip.pro
 ureashi.com
 us99.pro
+uschse04.my03.com
 uusilemmikki.com
 valeofoodsgroup.com
 validsteamkeys.com
@@ -1291,6 +1293,7 @@ wpad.ru
 wpad.top
 wpad.xyz
 ww25.utilify.me
+www.100xuniswap.xyz
 www.1stfinancefirm.wixsite.com
 www.1stireland.com
 www.1sttheworld.com
@@ -1412,6 +1415,7 @@ www.canjaume.com
 www.caraci.it
 www.casualdating1.com
 www.cda-zalukaj.prv.pl
+www.charmbean.com
 www.cheat-on.com
 www.check-update-today.me
 www.chesssorrydescend.com
@@ -1778,11 +1782,8 @@ www.navi30.ru
 www.navi33.com
 www.navi35.com
 www.navi36.ru
-www.navi37.com
 www.navi38.ru
 www.navi39.ru
-www.navi42.ru
-www.navi48.ru
 www.navi5.com
 www.navi53.com
 www.navi56.com
@@ -1801,7 +1802,6 @@ www.navi86.ru
 www.navi88.com
 www.navi9.com
 www.navi90.com
-www.navi97.ru
 www.navi98.com
 www.navi99.com
 www.nayatowerinstallation.in.net
@@ -1924,8 +1924,7 @@ www.ruthiekresal.za.com
 www.sakuradate.com
 www.salimusic.com
 www.saveeeee.myshopify.com
-www.sber.booking.com-id3212341.info
-www.sberbank.avito.id3410894.com
+www.sber.pay.sber.www.booking.com-id1800853.com
 www.seagulltee.com
 www.seasonsofficial.com
 www.securevault.top
@@ -1979,7 +1978,6 @@ www.startuplatte.com
 www.steamgateways.com
 www.steampowered.cn.com
 www.steamunlock.com
-www.steanmconnmunnity.com
 www.stellara.de
 www.stingcool-com.myshopify.com
 www.storagestory.com
@@ -2053,7 +2051,6 @@ www.uni-swap.online
 www.unifully.com
 www.uniswap.host
 www.uniswap.ro
-www.uniswap7.cloud
 www.uniswapagent.com
 www.uniswapai.xyz
 www.uniswapapp.xyz
@@ -2068,12 +2065,12 @@ www.uniswaplabs.xyz
 www.uniswaplender.xyz
 www.uniswaplending.xyz
 www.uniswapnft.xyz
-www.uniswaps.icu
 www.uniswapstake.xyz
 www.uniswapstaking.xyz
 www.uniswaptoken.xyz
 www.uniswaptrading.xyz
 www.universityofqatarrectorate.godaddysites.com
+www.upfilm.pl
 www.uplevelreward.com
 www.ureashi.com
 www.us99.pro
@@ -2135,7 +2132,7 @@ www.xcartpro.com
 www.xunlei.it
 www.xvid.social-previews.top
 www.yahhhoo.com
-www.yandex.sber.com-id02349.info
+www.yandex.avito.avito.www.booking.com-id20341.info
 www.yasir252.com
 www.yeezysofficial.us.com
 www.yeswevibe.com
@@ -2175,7 +2172,6 @@ www.zolrqw.palatlaldate.com
 x2em.com
 xcartpro.com
 xunlei.it
-xvid.social-previews.top
 yahhhoo.com
 yasir252.com
 yeezysofficial.us.com
