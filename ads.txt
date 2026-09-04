@@ -13285,6 +13285,7 @@ adtag.msn.ca
 adtag.primetime.adobe.com
 adtag.sphdigital.com
 adtag.sympatico.ca
+adtagj.portal-factory.com
 adtago.s3.amazonaws.com
 adtags.mobi
 adtags.pro
@@ -142014,6 +142015,7 @@ pubads-wiinvent.tv360.vn
 pubads.g.doubleclick.net
 pubads.wiinvent.tv
 pubadx.one
+pubbug.com
 pubcircle.ai
 pubcoderace.com
 pubdirecte.com
