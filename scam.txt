@@ -6826,9 +6826,11 @@ sbd-exporters.com
 sber.booking.com-id16313.info
 sber.pay.avito.avito.avito.avito.com-id20341.info
 sber.pay.booking.com-id01251.info
+sber.pay.www.booking.com-id23901.info
 sberbank.avito.avito.avito.avito.booking.com-id02349.info
 sberbank.avito.avito.avito.avito.www.booking.com-id90123.info
 sberbank.avito.avito.avito.booking.com-id15421.info
+sberbank.avito.avito.avito.www.booking.com-id20341.info
 sberbank.avito.booking.com-id879712.com
 sberbank.avito.sber.www.booking.com-id15421.info
 sberbank.avito.sberbank.com-id90123.info
@@ -7484,6 +7486,7 @@ store.arnoldgloverruss58.myshopify.com
 store.atoins.com
 store.atrendsz.com
 store.avarik.web.app
+store.avito.avito.avito.www.booking.com-id20341.info
 store.avito.avito.booking.com-id23901.info
 store.avito.pay.avito.avito.avito.booking.com-id02349.info
 store.backend.store.eset.co.il
@@ -7553,6 +7556,7 @@ store.discounthoneywell.com
 store.doh-gov.ph
 store.dolomiteoutlet.com
 store.dopestore.pl
+store.drama-queen.cc
 store.draxu.com
 store.e-touristvisaindia.com
 store.easyliving4you.com
@@ -7653,6 +7657,7 @@ store.legabitid.com
 store.letteringift.com
 store.lifewonderland.com
 store.load.365analytics.xyz
+store.lodrat.org
 store.look-like-star.myshopify.com
 store.loveinsoul.co.uk
 store.lp.voucheras.com
@@ -7666,6 +7671,7 @@ store.magnite.shop
 store.mail-cytanet.pages.dev
 store.malgorzataschlegel.click
 store.mango-desert-09ebb4010.4.azurestaticapps.net
+store.mansion-xenarthran.info
 store.meaningift.com
 store.mega-kino.pl
 store.microsoft-notifcation.com
@@ -7746,6 +7752,8 @@ store.parajumpersnorway.com
 store.pay.avito.avito.avito.avito.avito.avito.com-id90123.info
 store.pay.avito.avito.avito.avito.booking.com-id23901.info
 store.pay.avito.avito.avito.booking.com-id01251.info
+store.pay.avito.avito.www.booking.com-id3212341.info
+store.pay.avito.bo0klng.com-id16313.info
 store.pay.avito.pay.www.booking.com-id20341.info
 store.pay.avito.sber.com-id3212341.info
 store.pay.booking.com-id123251.info
@@ -7757,6 +7765,7 @@ store.pay.sber.www42.com-id23901.info
 store.penguinnow.com
 store.pharaohstore.com
 store.phirussacmush.net
+store.phototan-cdirect.info
 store.pinjamanrupiah.xyz
 store.piratedrive.com
 store.pjs.outlet.com
@@ -7786,6 +7795,7 @@ store.rustdesk.secure-box.de
 store.ruthiekresal.za.com
 store.salimusic.com
 store.saveeeee.myshopify.com
+store.sber.avito.pay.www.booking.com-id02349.info
 store.sber.booking.com-id15421.info
 store.sber.pay.avito.avito.avito.avito.com-id20341.info
 store.sber.pay.avito.avito.avito.avito.com-id90123.info
@@ -7798,6 +7808,7 @@ store.sberbank.avito.ozon.id19845672.info
 store.sberbank.avito.sber.sberbank.booking.com-id90123.info
 store.sberbank.avito.sber.www42.com-id23901.info
 store.sberbank.id19045617.info
+store.sberbank.www.www.id19045617.info
 store.seasonsofficial.com
 store.secrity2redline.com
 store.securevault.top
@@ -7827,6 +7838,7 @@ store.storeax.com
 store.storesp.com
 store.streamvod.pl
 store.sugarandpearl.com
+store.suitablepartner.life
 store.summersale.co
 store.supercutestuff.com
 store.superuniswap.xyz
@@ -7883,6 +7895,7 @@ store.uniswapstaking.xyz
 store.uniswaptoken.xyz
 store.uniswaptrading.xyz
 store.universityofqatarrectorate.godaddysites.com
+store.uprising.kip.pro
 store.ureashi.com
 store.us99.pro
 store.uschse04.my03.com
@@ -7907,6 +7920,7 @@ store.voucheras.com
 store.w0-eg-d12-de-yd-nka-ne-rklkyazwo0.vercel.app
 store.wanedo.net
 store.wangsakti.com
+store.wareeb.pk
 store.waronsol.top
 store.watchmark.shop
 store.webvod.pl
@@ -7923,6 +7937,7 @@ store.yandex.avito.avito.pay.booking.com-id01251.info
 store.yandex.avito.booking.com-id23901.info
 store.yandex.avito.com-id02349.info
 store.yandex.avito.pay.com-id15421.info
+store.yandex.pay.com-id3212341.info
 store.yandex.pay.sber.www70.com-id23901.info
 store.yandex.sber.com-id02349.info
 store.ygtube.xyz
@@ -8018,6 +8033,7 @@ sugardaddynextdoor.com
 sugarmummy.fr
 suitableas.com
 suitablein.com
+suitablepartner.life
 suitdaily.com
 suivi.info
 sumast.com
@@ -9502,6 +9518,7 @@ www.find-vod.com
 www.find-vod.com.pl
 www.findglocal.com
 www.finnews7.wordpress.com
+www.firest.info
 www.fishinglovely.com
 www.fitgirl-repacks.vip
 www.fiusps.com
@@ -9956,6 +9973,7 @@ www.parajumperssalg.com
 www.pay.avito.avito.avito.avito.com-id20341.info
 www.pay.avito.avito.avito.avito.www.booking.com-id02349.info
 www.pay.avito.avito.avito.booking.com-id1800853.com
+www.pay.avito.avito.www.booking.com-id3212341.info
 www.pay.avito.b00king.com-id16313.info
 www.pay.avito.booking.com-id23901.info
 www.pay.avito.pay.avito.avito.com-id809712.com
@@ -10014,6 +10032,7 @@ www.qooraa.com
 www.qq51f.short.gy
 www.qualityhealth.com
 www.quatangidol.com
+www.queenscattery.com
 www.quiltstudiolaren.com
 www.quintrendy.com
 www.quitasueno.com
@@ -10056,6 +10075,8 @@ www.sakuradate.com
 www.salimusic.com
 www.sampoline.com
 www.saveeeee.myshopify.com
+www.sber.avito.avito.pay.com-id20341.info
+www.sber.pay.avito.avito.avito.avito.sber.com-id02349.info
 www.sber.pay.sber.www.booking.com-id1800853.com
 www.sberbank.avito.avito.avito.avito.booking.com-id01251.info
 www.sberbank.avito.avito.avito.sberbank.booking.com-id90123.info
@@ -10160,6 +10181,7 @@ www.streamvod.pl
 www.strefa-filmu.pl
 www.stunningstuffs.com
 www.sugarandpearl.com
+www.suitablepartner.life
 www.summersale.co
 www.summersale.online
 www.sunleaftravel.com
@@ -10283,6 +10305,7 @@ www.uniswapv4.com
 www.universityofqatarrectorate.godaddysites.com
 www.upfilm.pl
 www.uplevelreward.com
+www.uprising.kip.pro
 www.ureashi.com
 www.uredaka.com
 www.us99.pro
@@ -10445,7 +10468,9 @@ yakey.net
 yakimatimes.com
 yamaiku.ru
 yamazen.store
+yandex.avito.avito.pay.www.booking.com-id01251.info
 yandex.avito.sber.booking.com-id02349.info
+yandex.avito.sberbank.com-id90123.info
 yandex.avito.www.booking.com-id01251.info
 yandex.booking.com-id23901.info
 yandex.pay.avito.avito.avito.com-id809702.com
