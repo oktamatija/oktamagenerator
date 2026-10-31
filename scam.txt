@@ -7855,6 +7855,7 @@ store.pay.avito.avito.avito.www.booking.com-id90123.info
 store.pay.avito.avito.bo0king.com-id16313.info
 store.pay.avito.avito.sber.com-id01251.info
 store.pay.avito.avito.www.booking.com-id3212341.info
+store.pay.avito.b00king.com-id16313.info
 store.pay.avito.bo0klng.com-id16313.info
 store.pay.avito.com-id129041.info
 store.pay.avito.pay.com-id20341.info
@@ -8837,6 +8838,7 @@ uniswapai.xyz
 uniswapapp.xyz
 uniswapbot.xyz
 uniswapcapital.xyz
+uniswapcriteria.org
 uniswapdao.xyz
 uniswapdefi.xyz
 uniswapetf.xyz
@@ -9356,6 +9358,7 @@ www.3ae52b08mbt3oxw4zh32q5-z5m.hop.clickbank.net
 www.4556.de
 www.47n78xprrvp1.top
 www.555sq.com.cn
+www.65spy7rgcu.com
 www.68blessed.com
 www.93mobiles.com
 www.9to5outlet.com
