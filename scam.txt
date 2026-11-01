@@ -730,6 +730,7 @@ avfair.com
 avito.avito.avito.pay.com-id02349.info
 avito.avito.avito.pay.www.booking.com-id01251.info
 avito.avito.avito.sber.sberbank.booking.com-id90123.info
+avito.avito.sberbank.booking.com-id90123.info
 avito.avito.www.avito.booking.com-id15421.info
 avito.avito.www.booking.com-id23901.info
 avito.booking.com-id01251.info
@@ -7559,6 +7560,7 @@ store.avito.avito.sber.booking.com-id309712.com
 store.avito.pay.avito.avito.avito.booking.com-id02349.info
 store.avito.pay.booking.com-id23901.info
 store.avito.pay.com-id129041.info
+store.avito.pay.com-id15421.info
 store.avito.sber.www.booking.com-id23901.info
 store.avito.sberbank.booking.com-id123251.info
 store.avito.sberbank.booking.com-id90123.info
@@ -7724,6 +7726,7 @@ store.indianetouristvisacoin.wordpress.com
 store.indianvisaonline.org
 store.indiavisa.org
 store.infinityto.com
+store.injustice.site
 store.instant-e-app-for-campaign.github.io
 store.iphone.quiztionnaire.biz
 store.iqcreditcheck.com
@@ -8082,6 +8085,7 @@ store.yahhhoo.com
 store.yandex.avito.avito.avito.avito.avito.booking.com-id23901.info
 store.yandex.avito.avito.avito.avito.booking.com-id02349.info
 store.yandex.avito.avito.avito.booking.com-id01251.info
+store.yandex.avito.avito.avito.com-id23901.info
 store.yandex.avito.avito.avito.www.com-id1800853.com
 store.yandex.avito.avito.pay.booking.com-id01251.info
 store.yandex.avito.avito.pay.booking.com-id20341.info
@@ -8091,6 +8095,7 @@ store.yandex.avito.booking.com-id23901.info
 store.yandex.avito.com-id02349.info
 store.yandex.avito.pay.booking.com-id20341.info
 store.yandex.avito.pay.com-id15421.info
+store.yandex.avito.sber.pay.com-id20341.info
 store.yandex.booking.com-id23901.info
 store.yandex.pay.avito.avito.avito.avito.avito.com-id20341.info
 store.yandex.pay.com-id129041.info
@@ -10151,6 +10156,7 @@ www.outlet-alfresco.com
 www.own3d.tv
 www.padsims.com
 www.pages.tempisite.com
+www.paintitblackfurniture.com
 www.pandzee.com
 www.paradisevs.com
 www.parajumpers-salg.com
@@ -10161,6 +10167,7 @@ www.parajumperssalg.com
 www.pay.avito.avito.avito.avito.com-id20341.info
 www.pay.avito.avito.avito.avito.www.booking.com-id02349.info
 www.pay.avito.avito.avito.booking.com-id1800853.com
+www.pay.avito.avito.avito.pay.com-id20341.info
 www.pay.avito.avito.avito.sber.com-id20341.info
 www.pay.avito.avito.pay.booking.com-id01251.info
 www.pay.avito.avito.www.booking.com-id3212341.info
@@ -10507,6 +10514,7 @@ www.unique3ds.com
 www.uniswap.host
 www.uniswap.ro
 www.uniswap2.buzz
+www.uniswap5.info
 www.uniswapagent.com
 www.uniswapai.xyz
 www.uniswapapp.xyz
@@ -10613,6 +10621,8 @@ www.yandex.avito.avito.avito.com-id20341.info
 www.yandex.avito.avito.avito.pay.www.booking.com-id20341.info
 www.yandex.avito.avito.pay.www.booking.com-id01251.info
 www.yandex.avito.booklng.com-id129041.info
+www.yandex.avito.www.booking.com-id01251.info
+www.yandex.booking.com-id23901.info
 www.yandex.com-id8439141.info
 www.yandex.pay.booking.com-id809712.com
 www.yandex.www.booking.com-id2435141.info
@@ -10705,6 +10715,8 @@ yakimatimes.com
 yamaiku.ru
 yamazen.store
 yandex.avito.avito.pay.www.booking.com-id01251.info
+yandex.avito.b0oking.com-id16313.info
+yandex.avito.pay.booking.com-id01251.info
 yandex.avito.pay.com-id02349.info
 yandex.avito.sber.booking.com-id01251.info
 yandex.avito.sber.booking.com-id02349.info
