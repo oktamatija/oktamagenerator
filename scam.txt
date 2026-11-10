@@ -5936,6 +5936,7 @@ pay.avito.booking.com-id2435141.info
 pay.avito.pay.www.booking.com-id15421.info
 pay.avito.sber.www.www42.com-id23901.info
 pay.avito.www.booking.com-id20341.info
+pay.avito.www.booking.com-id8439141.info
 pay.booking.com-id02349.info
 pay.com-id129041.info
 pay.com-id20341.info
@@ -6104,6 +6105,7 @@ plattenews.com
 plausible-analytics.xyz
 play-gmod.com
 play.sweepstakesalerts.com
+player-qr.com
 playerssource.com
 playflirtmeet.com
 playfulpuddgypugs.com
@@ -7567,6 +7569,7 @@ store.65spy7rgcu.com
 store.adidasko.com
 store.adminicesm.life
 store.affordableforyouusa5.godaddysites.com
+store.afiletoget.click
 store.air-up-turkiye.com
 store.airteltower.com
 store.airup-romania.com
@@ -7989,9 +7992,11 @@ store.sber.sber.booking.com-id20341.info
 store.sber.sberbank.avito.avito.avito.avito.booking.com-id20341.info
 store.sber.www.sberbank.com-id123251.info
 store.sberbank.avito.avito.avito.avito.avito.avito.com-id20341.info
+store.sberbank.avito.avito.avito.booking.com-id01251.info
 store.sberbank.avito.avito.avito.booklng.com-id16313.info
 store.sberbank.avito.avito.avito.com-id2435141.info
 store.sberbank.avito.avito.avito.www.booking.com-id02349.info
+store.sberbank.avito.avito.pay.com-id01251.info
 store.sberbank.avito.avito.sber.avito.www.booking.com-id809702.com
 store.sberbank.avito.avito.sber.booking.com-id01251.info
 store.sberbank.avito.avito.www.booking.com-id809702.com
@@ -9430,6 +9435,7 @@ wshopon.com
 wswcreative.com
 wubefine.com
 wulooofficial.com
+wuqrie.info
 wvheartlandnews.com
 ww-woffice.com
 ww25.utilify.me
@@ -9508,6 +9514,7 @@ www.audiosg.com.sg
 www.augusthenri.be
 www.aussiesportfashion.com
 www.avarik.web.app
+www.avito.avito.avito.avito.avito.booking.com-id23901.info
 www.avito.avito.avito.avito.booking.com-id90123.info
 www.avito.avito.avito.booking.com-id23901.info
 www.avito.avito.avito.pay.booking.com-id01251.info
@@ -10060,6 +10067,7 @@ www.m.coinexeu.vip
 www.maebl.com
 www.magnite.shop
 www.mail-cytanet.pages.dev
+www.mail.app.admin.id601294105.date
 www.malgorzataschlegel.click
 www.mango-desert-09ebb4010.4.azurestaticapps.net
 www.marleytecnologica.com
@@ -10267,6 +10275,7 @@ www.parajumpersnorway.com
 www.parajumperssalg.com
 www.parcel-fee.info
 www.parcelprocessingredelivery1.info
+www.pay.avito.avito.avito.avito.avito.avito.com-id20341.info
 www.pay.avito.avito.avito.avito.booking.com-id20341.info
 www.pay.avito.avito.avito.avito.com-id20341.info
 www.pay.avito.avito.avito.avito.www.booking.com-id02349.info
@@ -10318,6 +10327,7 @@ www.pinjamuang.top
 www.pipopi.com
 www.piratedrive.com
 www.pjs.outlet.com
+www.player-qr.com
 www.plutostars.com
 www.podmart.mobi
 www.poistenie-sk.com
@@ -10424,6 +10434,7 @@ www.sberbank.avito.pay.booking.com-id3212341.info
 www.sberbank.avito.pay.com-id20341.info
 www.sberbank.avito.pay.www.booking.com-id01251.info
 www.sberbank.avito.sber.booking.com-id90123.info
+www.sberbank.avito.sber.sber.booking.com-id90123.info
 www.sberbank.avito.www.booking.com-id23901.info
 www.sberbank.com-id01251.info
 www.sberbank.pay.avito.avito.avito.com-id90123.info
@@ -10751,6 +10762,7 @@ www.yandex.avito.www.booking.com-id01251.info
 www.yandex.avito.www.booking.com-id3212341.info
 www.yandex.booking.com-id23901.info
 www.yandex.com-id8439141.info
+www.yandex.pay.avito.avito.avito.avito.booking.com-id02349.info
 www.yandex.pay.booking.com-id809712.com
 www.yandex.pay.sber.www70.com-id23901.info
 www.yandex.sber.avito.avito.avito.avito.avito.com-id20341.info
