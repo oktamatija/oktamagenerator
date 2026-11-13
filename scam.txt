@@ -5961,6 +5961,7 @@ pay.pay.avito.avito.avito.sber.com-id02349.info
 pay.pay.booklng.com-id129041.info
 pay.sber.avito.booking.com-id02349.info
 pay.sber.com-id20341.info
+pay.sber.www.com-id1800853.com
 pay.sberbank.booking.com-id90123.info
 pay.sberbank.www.booking.com-id123251.info
 pay.www.avito.www.booking.com-id123251.info
@@ -8989,6 +8990,7 @@ uniswapcapital.xyz
 uniswapcriteria.org
 uniswapdao.xyz
 uniswapdefi.xyz
+uniswapdrop.org
 uniswapetf.xyz
 uniswapfund.xyz
 uniswapgo.com
@@ -9575,6 +9577,7 @@ www.avito.avito.avito.pay.booking.com-id01251.info
 www.avito.avito.avito.pay.com-id02349.info
 www.avito.avito.avito.pay.com-id15421.info
 www.avito.avito.avito.pay.com-id20341.info
+www.avito.avito.pay.avito.avito.avito.booking.com-id02349.info
 www.avito.avito.pay.avito.www.www.com-id879712.com
 www.avito.avito.pay.booking.com-id02349.info
 www.avito.avito.pay.com-id15421.info
@@ -10339,10 +10342,12 @@ www.pay.avito.avito.avito.avito.www.booking.com-id02349.info
 www.pay.avito.avito.avito.booking.com-id1800853.com
 www.pay.avito.avito.avito.pay.com-id20341.info
 www.pay.avito.avito.avito.sber.com-id20341.info
+www.pay.avito.avito.avito.www.booking.com-id02349.info
 www.pay.avito.avito.pay.booking.com-id01251.info
 www.pay.avito.avito.www.avito.booking.com-id90123.info
 www.pay.avito.avito.www.booking.com-id3212341.info
 www.pay.avito.b00king.com-id16313.info
+www.pay.avito.b0oklng.com-id16313.info
 www.pay.avito.booking.com-id23901.info
 www.pay.avito.pay.avito.avito.com-id809712.com
 www.pay.avito.pay.booking.com-id3212341.info
@@ -10690,6 +10695,7 @@ www.tripinpremiumsnacks.com
 www.tritino.net
 www.tromselementbygg.no
 www.tronilnk.com
+www.trump-drop.org
 www.trustpilot.com
 www.tulumwellnessacademy.com
 www.turtleclient.xyz
@@ -10817,6 +10823,7 @@ www.xmasbauble.com
 www.xunlei.it
 www.xvid.social-previews.top
 www.yahhhoo.com
+www.yandex.avito.avito.avito.avito.avito.avito.com-id23901.info
 www.yandex.avito.avito.avito.avito.avito.com-id90123.info
 www.yandex.avito.avito.avito.avito.com-id1800853.com
 www.yandex.avito.avito.avito.booking.com-id02349.info
@@ -10905,6 +10912,7 @@ xn--snabbdejting-kta-7nb.com
 xn--unfi-6pa.ch
 xoom.com
 xperiausbdriver.com
+xrp-give.pro
 xtrasize.com
 xtreamshop.com
 xtrefinance.com
