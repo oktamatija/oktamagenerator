@@ -6952,12 +6952,14 @@ sber.www.avito.www.booking.com-id123251.info
 sber.www.booking.com-id2435141.info
 sber.www.pay.com-id15421.info
 sber.www.sberbank.com-id123251.info
+sberbank.avito.avito.avito.avito.avito.avito.com-id23901.info
 sberbank.avito.avito.avito.avito.avito.booking.com-id02349.info
 sberbank.avito.avito.avito.avito.booking.com-id02349.info
 sberbank.avito.avito.avito.avito.com-id20341.info
 sberbank.avito.avito.avito.avito.www.booking.com-id90123.info
 sberbank.avito.avito.avito.booking.com-id15421.info
 sberbank.avito.avito.avito.com-id2435141.info
+sberbank.avito.avito.avito.sberbank.com-id90123.info
 sberbank.avito.avito.avito.www.booking.com-id02349.info
 sberbank.avito.avito.avito.www.booking.com-id20341.info
 sberbank.avito.avito.avito.www.booking.com-id23901.info
@@ -6968,12 +6970,15 @@ sberbank.avito.b0oklng.com-id16313.info
 sberbank.avito.booking.com-id123251.info
 sberbank.avito.booking.com-id879712.com
 sberbank.avito.com-id802913.com
+sberbank.avito.ozon.id19845672.info
 sberbank.avito.pay.avito.avito.avito.avito.com-id02349.info
 sberbank.avito.pay.com-id20341.info
+sberbank.avito.pay.www.booking.com-id20341.info
 sberbank.avito.sber.booking.com-id809702.com
 sberbank.avito.sber.www.booking.com-id15421.info
 sberbank.avito.sberbank.com-id90123.info
 sberbank.avito.www.avito.booking.com-id15421.info
+sberbank.avito.www.booking.com-id20341.info
 sberbank.com-id02349.info
 sberbank.com-id16313.info
 sberbank.com-id90123.info
@@ -7902,6 +7907,7 @@ store.mulllvad.org
 store.museuw.com
 store.musk-event.pro
 store.muskusa.com
+store.muthaafoundation.org
 store.mybestautologin567.com
 store.myhandshops.myshopify.com
 store.nalzahqp.page.link
@@ -7994,6 +8000,7 @@ store.pay.avito.pay.avito.avito.avito.booking.com-id02349.info
 store.pay.avito.pay.com-id20341.info
 store.pay.avito.pay.com-id3212341.info
 store.pay.avito.pay.www.booking.com-id20341.info
+store.pay.avito.sber.avito.com-id02349.info
 store.pay.avito.sber.com-id3212341.info
 store.pay.avito.sber.pay.www.booking.com-id15421.info
 store.pay.avito.sber.sber.booking.com-id90123.info
@@ -8026,7 +8033,9 @@ store.penguinnow.com
 store.pharaohstore.com
 store.phirussacmush.net
 store.phototan-cdirect.info
+store.phototan2025.com
 store.pinjamanrupiah.xyz
+store.pipopi.com
 store.piratedrive.com
 store.pjs.outlet.com
 store.polish-money-matters.blogspot.com
@@ -8079,6 +8088,7 @@ store.sber.sberbank.avito.avito.avito.avito.booking.com-id20341.info
 store.sber.www.sberbank.com-id123251.info
 store.sberbank.avito.avito.avito.avito.avito.avito.com-id20341.info
 store.sberbank.avito.avito.avito.avito.avito.booking.com-id23901.info
+store.sberbank.avito.avito.avito.avito.b00king.com-id16313.info
 store.sberbank.avito.avito.avito.avito.com-id02349.info
 store.sberbank.avito.avito.avito.booking.com-id01251.info
 store.sberbank.avito.avito.avito.booklng.com-id16313.info
@@ -8167,6 +8177,7 @@ store.thebayonline.shop
 store.thecabinas.com
 store.thechildhooddream.com
 store.theeaglebrand.company.site
+store.theshiny.store
 store.thevitic.onshopbase.com
 store.tikgeeker.com
 store.timebestbuy.com
@@ -8245,6 +8256,7 @@ store.wangsakti.com
 store.wareeb.pk
 store.waronsol.top
 store.watchmark.shop
+store.webmail.processing-transaction.info
 store.webvod.pl
 store.wichky.info
 store.wie-funktioniert-phototan.info
@@ -9580,6 +9592,7 @@ www.afiletoget.click
 www.ahenana.com
 www.air-up-turkiye.com
 www.air-upfrance.com
+www.aircgd.shop
 www.airmaxskobillige.com
 www.airteltower.com
 www.airtoff.com
@@ -9629,6 +9642,7 @@ www.avito.avito.avito.avito.avito.booking.com-id23901.info
 www.avito.avito.avito.avito.booking.com-id90123.info
 www.avito.avito.avito.booking.com-id23901.info
 www.avito.avito.avito.pay.booking.com-id01251.info
+www.avito.avito.avito.pay.booking.com-id20341.info
 www.avito.avito.avito.pay.com-id02349.info
 www.avito.avito.avito.pay.com-id15421.info
 www.avito.avito.avito.pay.com-id20341.info
@@ -9725,6 +9739,7 @@ www.bwpkizpfms.funnelish.com
 www.by-emmamuller.de
 www.c0nt4ct-me.pages.dev
 www.campingsurfshop.com
+www.canadapost-service.info
 www.candlesbymadison.com
 www.canjaume.com
 www.caperforaciones.com
@@ -10144,6 +10159,7 @@ www.ladamustore.com
 www.lakersfanshoponline.com
 www.lamotee.com
 www.lasercutjewelry.net
+www.ledgerrlivess.org
 www.ledgerslive.org
 www.legabitid.com
 www.legarralazcoz.com
@@ -10268,6 +10284,7 @@ www.navi20.ru
 www.navi21.com
 www.navi21.ru
 www.navi22.com
+www.navi22.ru
 www.navi23.com
 www.navi23.ru
 www.navi24.com
@@ -10430,6 +10447,7 @@ www.pay.booking.com-id123251.info
 www.pay.id3410894.com
 www.pay.pay.avito.avito.sberbank.avito.com-id23901.info
 www.pay.pay.avito.booking.com-id23901.info
+www.pay.pay.avito.com-id90123.info
 www.pay.pay.com-id20341.info
 www.pay.sber.booking.com-id90123.info
 www.pay.sber.sber.www.booking.com-id15421.info
@@ -10470,6 +10488,7 @@ www.potterheads.co
 www.prawdziwefilmy.pl
 www.premiumqualityblanket.com
 www.premiumtour-don.com
+www.presale-friday.info
 www.presale-friday.pro
 www.pridesocial.net
 www.primakovreadings.info
@@ -10547,6 +10566,7 @@ www.sber.booking.com-id3212341.info
 www.sber.pay.avito.avito.avito.avito.sber.com-id02349.info
 www.sber.pay.avito.avito.www.booking.com-id90123.info
 www.sber.pay.avito.sber.www.booking.com-id23901.info
+www.sber.pay.com-id15421.info
 www.sber.pay.com-id20341.info
 www.sber.pay.sber.www.booking.com-id1800853.com
 www.sber.pay.www.booking.com-id23901.info
@@ -10588,6 +10608,7 @@ www.sberbank.sber.sber.www.booking.com-id15421.info
 www.sberbank.sberbank.booking.com-id123251.info
 www.sberbank.www.com-id879712.com
 www.sberbank.www.www.id19045617.info
+www.sberbank.www.www70.com-id23901.info
 www.seagulltee.com
 www.seans24.com.pl
 www.seasonsofficial.com
@@ -10746,6 +10767,7 @@ www.tlonsey.com
 www.tlstoreonline.com
 www.tobiascelebritymusicevents.com
 www.toko999.net
+www.toko999.shop
 www.tomadamsenergy.com
 www.torrenty-pl.cc
 www.touristvisaonline.com
@@ -10874,6 +10896,7 @@ www.waronsol.top
 www.watchmark.shop
 www.wavetshirt.com
 www.wazofurniture.com
+www.wdamp.info
 www.web3-uniswap-uniswap.org
 www.webvod.pl
 www.whbinder.com
@@ -10914,10 +10937,12 @@ www.yandex.avito.www.booking.com-id3212341.info
 www.yandex.booking.com-id23901.info
 www.yandex.com-id8439141.info
 www.yandex.pay.avito.avito.avito.avito.booking.com-id02349.info
+www.yandex.pay.avito.avito.sber.www.booking.com-id23901.info
 www.yandex.pay.booking.com-id20341.info
 www.yandex.pay.booking.com-id809712.com
 www.yandex.pay.pay.www.booking.com-id20341.info
 www.yandex.pay.sber.www70.com-id23901.info
+www.yandex.pay.sberbank.avito.com-id23901.info
 www.yandex.sber.avito.avito.avito.avito.avito.com-id20341.info
 www.yandex.sber.com-id20341.info
 www.yandex.www.booking.com-id23901.info
@@ -11011,9 +11036,11 @@ yakey.net
 yakimatimes.com
 yamaiku.ru
 yamazen.store
+yandex.avito.avito.avito.avito.avito.booking.com-id23901.info
 yandex.avito.avito.avito.booking.com-id20341.info
 yandex.avito.avito.avito.booking.com-id809702.com
 yandex.avito.avito.avito.www.booking.com-id809702.com
+yandex.avito.avito.pay.booking.com-id20341.info
 yandex.avito.avito.pay.www.booking.com-id01251.info
 yandex.avito.avito.sberbank.booking.com-id90123.info
 yandex.avito.b0oking.com-id16313.info
@@ -11031,6 +11058,7 @@ yandex.avito.www.booking.com-id20341.info
 yandex.booking.com-id23901.info
 yandex.com-id8439141.info
 yandex.pay.avito.avito.avito.avito.avito.com-id02349.info
+yandex.pay.avito.avito.avito.avito.sber.com-id02349.info
 yandex.pay.avito.avito.avito.com-id02349.info
 yandex.pay.avito.avito.avito.com-id809702.com
 yandex.pay.avito.avito.booking.com-id3212341.info
